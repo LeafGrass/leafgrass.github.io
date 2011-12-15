@@ -11,8 +11,8 @@ Archive
 
 Projects
 --------
-* &#187; [WebWizards][ww]
-* &#187; [Fractal Image Compression][fic]
+* &#187; [Ousia][os]
+* &#187; [QuadroCopter][qc]
 * &#187; [World of Wumpus A.I. game][ww]
 * &#187; [Othello game implementation][othello]
 * &#187; [ArchLinux packages][pkg]
@@ -24,17 +24,8 @@ Projects
 * &#187; [personal dotfiles collection][dot]
 {:.posts}
 
-  [ww]: http://c00kiemon5ter.github.com/WebWizards/
-  [fic]: http://c00kiemon5ter.github.com/Fractal-Image-Compression
-  [wumpus]: https://github.com/c00kiemon5ter/WorldOfWumpus
-  [othello]: https://github.com/c00kiemon5ter/Othello
-  [pkg]: https://github.com/c00kiemon5ter/PKGBUILDs
-  [hw]: https://github.com/c00kiemon5ter/hello-world
-  [blog]: https://github.com/c00kiemon5ter/c00kiemon5ter.github.com
-  [lucene-cacm]: https://github.com/c00kiemon5ter/LuceneEval
-  [zipf]: http://c00kiemon5ter.github.com/zipf/
-  [script]: https://github.com/c00kiemon5ter/scripts
-  [dot]: https://github.com/c00kiemon5ter/dotfiles
+  [os]: http://github.com/LeafGrass/ousia
+  [qc]: http://github.com/librae8226/QuadroCopter
 
 click it ↓ comic [source]()
 {:.meta}
