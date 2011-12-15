@@ -13,15 +13,6 @@ Projects
 --------
 * &#187; [Ousia][os]
 * &#187; [QuadroCopter][qc]
-* &#187; [World of Wumpus A.I. game][ww]
-* &#187; [Othello game implementation][othello]
-* &#187; [ArchLinux packages][pkg]
-* &#187; [Hello, World! in every language repository][hw]
-* &#187; [this blog][blog]
-* &#187; [a parser for the CACM document collection using Java-Lucene lib][lucene-cacm]
-* &#187; [zipf law for the Greek language][zipf]
-* &#187; [varius everyday-use scripts][script]
-* &#187; [personal dotfiles collection][dot]
 {:.posts}
 
   [os]: http://github.com/LeafGrass/ousia
