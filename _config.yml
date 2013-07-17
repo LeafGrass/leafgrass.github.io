@@ -1,5 +1,5 @@
-title:            Minimal Mistakes
-tagline:          Jekyll Theme
+title:            LeafGrass
+tagline:          Quietly Simple Graceful
 description:      A responsive Jekyll theme large featured images and solid typography.
 #Comment out url when working locally to resolve base urls correctly
 url:              http://leafgrass.github.io
@@ -12,12 +12,12 @@ owner:
   email:          michael@mademistakes.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        "mmistakes"
-  facebook:       
-  github:         "mmistakes"
-  linkedin:       
+  facebook:
+  github:         "leafgrass"
+  linkedin:
   instagram:      "mmistakes"
-  lastfm:         
-  tumblr:         
+  lastfm:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    "http://plus.google.com/118238196859537351707"
 
@@ -34,6 +34,8 @@ links:
     url: /about
   - title: Articles
     url: /articles
+  - title: Projects
+    url: /projects
   - title: Theme Setup
     url: /theme-setup
   - title: Made Mistakes
@@ -57,7 +59,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
