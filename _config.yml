@@ -1,25 +1,25 @@
 title:            LeafGrass
 tagline:          Quietly Simple Graceful
-description:      A responsive Jekyll theme large featured images and solid typography.
+description:      What we do is what we love, that deserve to own.
 #Comment out url when working locally to resolve base urls correctly
 url:              http://leafgrass.github.io
 
 # Owner/author information
 owner:
-  name:           Michael Rose
-  avatar:         bio-photo.jpg
-  bio:            "Just another boring, time traveling, tattooed, designer from Buffalo New York."
-  email:          michael@mademistakes.com
+  name:           LeafGrass
+  avatar:         leafgrass.jpg
+  bio:            "Often, we are running after our ideals. Actually, on the way, is always full of satisfaction."
+  email:          leafgrass.g@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        "mmistakes"
+  twitter:
   facebook:
   github:         "leafgrass"
   linkedin:
-  instagram:      "mmistakes"
+  instagram:
   lastfm:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/118238196859537351707"
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-2011187-3
@@ -43,7 +43,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Shanghai
 future:      true
 pygments:    true
 markdown:    kramdown
