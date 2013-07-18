@@ -12,8 +12,8 @@ Looking for a simple, responsive, theme for your Jekyll powered blog? Well look 
 ## So Simple Theme is all about:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments and subtle animations. 
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
+* Minimal embellishments and subtle animations.
 * Readable typography to make your words shine.
 * Support for large images to call out your favorite posts.
 * Disqus comments if you choose to enable.

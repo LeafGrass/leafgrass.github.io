@@ -1,15 +1,15 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Caremater
+description:      Quietly Simple Graceful
 logo:             site-logo.png
-disqus_shortname:
+disqus_shortname: caremater
 #Comment out url when working locally to resolve base urls correctly
 url:              http://leafgrass.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Caremater
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          leafgrass.g@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
@@ -41,7 +41,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Shanghai
 future:      true
 pygments:    true
 markdown:    kramdown
