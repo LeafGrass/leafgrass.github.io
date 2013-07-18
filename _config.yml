@@ -3,7 +3,7 @@ description:      Describe your website here.
 logo:             site-logo.png
 disqus_shortname:
 #Comment out url when working locally to resolve base urls correctly
-url:              http://10.37.135.135:4000
+url:              http://leafgrass.github.io
 
 # Owner/author information
 owner:
