@@ -9,14 +9,9 @@ image:
 
 ### Mater
 
-> An informal use of the Latin word for mother; sometimes used by British schoolboys or used facetiously.<br>
+> Mate
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
--- &nbsp;&nbsp;&nbsp;&nbsp;[Princeton Education wordnetweb](http://wordnetweb.princeton.edu/perl/webwn?s=mater&sub=Search+WordNet&o2=&o0=1&o8=1&o1=1&o7=&o5=&o9=&o6=&o3=&o4=&h=)
-
-Once in a while, mom said she felt helpless while the heart gets in trouble if alone.
-Thus we are trying to find way, to take care of her. Our projects/products are built to care about our maters:<br>
-&nbsp;&nbsp;&nbsp;&nbsp; our moms, as well as the earth mother. [@Caremater](http://caremater.org)
+[@Caremater](http://caremater.org)
 
 ## So Simple Theme is all about:
 
